@@ -1,7 +1,9 @@
-<<<<<<< HEAD
 # IoC Extraction & Threat Intelligence Enrichment
 
+Python tool for extracting Indicators of Compromise (IoCs) from security logs and enriching them using VirusTotal.
+
 ## Features
+
 - Extract IP addresses using Regex
 - Extract URLs
 - Extract Domains
@@ -21,7 +23,7 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
-=======
-# IoC-threat-intelligence
-Python tool for extracting Indicators of Compromise (IoCs) from security logs, enriching them with VirusTotal, assigning severity, and generating JSON/CSV reports.
->>>>>>> 1e903234df81aef350a1bc0823dbaca894bef277
+
+## Disclaimer
+
+This project was developed as part of a SOC training exercise for educational purposes.
